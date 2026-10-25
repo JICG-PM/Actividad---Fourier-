@@ -1,5 +1,3 @@
-# Actividad---Fourier-
-Simulación y Análisis de señales con la transformada de Fourier
 # Actividad Formativa 2: Simulación y Análisis de Señales con la Transformada de Fourier
 
 ## Propósito del Código
